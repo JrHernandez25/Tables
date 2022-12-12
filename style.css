@@ -1,0 +1,25 @@
+body{
+    background-color: lightcyan;
+}
+table{
+    margin-left: 27%;
+    border-spacing: 0px;
+    margin-bottom: 1%;
+}
+footer{
+    text-align: center;
+}
+td{
+    border: solid black 1px;
+    text-align: center;
+    margin-left: 0px;
+    font-size: larger;
+}
+tr{
+    border: solid black 1px;
+    margin: 0px;
+    width: 10%;
+}
+h1{
+    text-align: center;
+}
